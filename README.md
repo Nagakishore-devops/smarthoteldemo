@@ -1,0 +1,2 @@
+# smarthoteldemo
+Ansible infrastructure
